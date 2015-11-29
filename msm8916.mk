@@ -61,6 +61,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libboringssl-compat
 
+# Stlport
+PRODUCT_PACKAGES += \
+    libstlport
+
 # Charger
 PRODUCT_PACKAGES += \
     charger_res_images

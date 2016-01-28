@@ -58,10 +58,6 @@ PRODUCT_PACKAGES += \
     com.dsi.ant.antradio_library \
     libantradio
 
-# BoringSSL Compat
-PRODUCT_PACKAGES += \
-    libboringssl-compat
-
 # Charger
 PRODUCT_PACKAGES += \
     charger_res_images
